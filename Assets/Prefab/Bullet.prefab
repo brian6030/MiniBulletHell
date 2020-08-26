@@ -111,6 +111,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ProjectileSpeed: 160
+  meshRenderer: {fileID: 7005789849642969388}
+  blue: {fileID: 2100000, guid: 7ed72b94ac4928941a58b71ac11c3cfc, type: 2}
+  orange: {fileID: 2100000, guid: f3830a21661fc6f4b96820c990542f70, type: 2}
 --- !u!54 &784688925546631556
 Rigidbody:
   m_ObjectHideFlags: 0

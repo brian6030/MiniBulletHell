@@ -40,7 +40,6 @@ public class ObjectPooler : MonoBehaviour
             pooledObjects.Add(obj);
             return obj;
         }
-
         return null;
     }
 }
